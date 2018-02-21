@@ -10,8 +10,11 @@ Adding Additional LED's
 Simply add an LED and PushButton to the circuit parallel to the others.
 
 Now just add the port of the LED to:
+
 https://github.com/AlexMainstone/SimonSays/blob/c86486420d1a7cde8bc0a157da3426c18a627cc0/Simon_Says.ino#L9
+
 And the port of the PushButton to:
+
 https://github.com/AlexMainstone/SimonSays/blob/c86486420d1a7cde8bc0a157da3426c18a627cc0/Simon_Says.ino#L10
 
 
